@@ -45,7 +45,7 @@
 
             <meta-data
                 android:name="com.parse.push.gcm_sender_id"
-                android:value="353150962121" />
+                android:value="YOUR_GCM_SENDER_ID" />
         </activity>
 
         <service
